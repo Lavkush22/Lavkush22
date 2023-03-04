@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Lavkush Kumar</h1>
 <h3 align="center">I am passionate for Frontend and Backend Developer from India</h3>
 <img align="right" alt="Coding" width="420" src="https://img.freepik.com/premium-vector/man-working-computer-cartoon-vector-illustration-people-technology-concept-isolated-vector-flat-cartoon-style_138676-2024.jpg">
-- 🤝 I’m looking for **Another Organization**
 
-- 🌱 I’m currently learning **Nest Js, MongoDB**
+- 🔭 I am looking for **Another Organization**
 
-- 🔭 I’m currently working in **Adani Digital Labs Pvt. Ltd.**
+- 👯 I am currently working in **Adani Digital Labs Pvt. Ltd.**
 
-- 👯 I'h previously worked in **Innovsource Services Pvt. Ltd.**
+- 🤝 I have worked previously in **Innovsource Services Pvt. Ltd.**
+
+- 🌱 I have done Internship in **TechCiti Software Consulting Pvt. Ltd.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lavkush22](https://github.com/Lavkush22)
 
