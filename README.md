@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://github.com/Lavkush22/Lavkush22)
 <h1 align="center">Hi 👋, I'm Lavkush Kumar</h1>
 <h3 align="center">I am passionate for Frontend and Backend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/man-working-computer-cartoon-vector-illustration-people-technology-concept-isolated-vector-flat-cartoon-style_138676-2024.jpg">
+<img align="right" alt="Coding" width="420" src="https://img.freepik.com/premium-vector/man-working-computer-cartoon-vector-illustration-people-technology-concept-isolated-vector-flat-cartoon-style_138676-2024.jpg">
 - 🤝 I’m looking for **Another Organization**
 
 - 🌱 I’m currently learning **Nest Js, MongoDB**
