@@ -14,7 +14,7 @@
 
 - 📝 Can check My personal website [https://lavkush22.github.io/My-Profile/](https://lavkush22.github.io/My-Profile/)
 
-- 💬 Ask me about **Fronted & Backend Technology**
+- 💬 Ask me about **Frontend & Backend Technology**
 
 - 📫 How to reach me **lk12015023@gmail.com**
 
