@@ -28,8 +28,8 @@
 <a href="https://linkedin.com/in/lavkush22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavkush22" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/lavkush22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lavkush22" height="30" width="40" /></a>
 <a href="https://instagram.com/lav_9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lav_9999" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lavkush22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lavkush22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lavkush22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lavkush22" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lk12015023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lavkush22" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lk12015023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lavkush22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
